@@ -1,0 +1,51 @@
+.main {
+    padding-top: 20px;
+    width: 100%;
+    text-align: center;
+}
+
+.head {
+    margin: 30px 0;
+}
+
+.head h1{
+    font-family: PingFang SC, Verdana, Helvetica Neue, Microsoft Yahei, Hiragino Sans GB, Microsoft Sans Serif, WenQuanYi Micro Hei, sans-serif;
+    font-weight: 100;
+    color: #000;
+    line-height: 1.35;
+
+    margin-top: 1.2em;
+    margin-bottom: 0.6em;
+    line-height: 1.35;
+    font-size: 2em;
+}
+
+.posts {
+    margin: 30px auto;
+    text-align: left;
+    width: 40%;
+}
+
+.posts h4 {
+    font-family: PingFang SC, Verdana, Helvetica Neue, Microsoft Yahei, Hiragino Sans GB, Microsoft Sans Serif, WenQuanYi Micro Hei, sans-serif;
+    font-weight: 100;
+    color: #000;
+    line-height: 1.35;
+
+    margin-top: 1.2em;
+    margin-bottom: 0.6em;
+    line-height: 1.35;
+    font-size: 1.4em;
+}
+
+.posts p {
+    font-family: PingFang SC, Verdana, Helvetica Neue, Microsoft Yahei, Hiragino Sans GB, Microsoft Sans Serif, WenQuanYi Micro Hei, sans-serif;
+    font-weight: 100;
+    color: #000;
+    line-height: 1.35;
+
+    margin-top: 1.2em;
+    margin-bottom: 0.6em;
+    line-height: 1.35;
+    font-size: 1.4em;
+}
